@@ -1,0 +1,37 @@
+{
+  "478":
+  {
+    "Categories":["view-all-shoes-women","view-all-rtw-women","view-all-handbags-women","view-all-slg-women","view-all-jewelry-women","view-all-accessories-women","view-all-rtw-men","view-all-shoes-men","view-all-slg-men","view-all-accessories-men","view-all-bags-men","highlights-women-collection","highlights-men-collection"],
+    "Locales":["en-it","en-us"]
+  },
+  "229":
+  {
+    "Categories":["men-bags", "men-bags-luggage","men-readytowear","men-shoes","men-accessories-wallets","men-accessories-hats-and-gloves","men-accessories-belts","men-eyewear","jewelry-watches-watches-men","men-accessories","women-shoes","women-handbags","women-accessories-lifestyle-bags-and-luggage","women-readytowear","women-accessories-wallets","women-accessories","jewelry-watches-watches-women", "women-accessories-belts","women-accessories-silks-and-scarves","women-accessories-hats-and-gloves"],
+    "Locales":["it/it","us/en"]
+  },
+  "26":
+  {
+    "Categories":[{"category_list":["w-ready-to-wear","W-All-Shoes" ,"W-All-Bags","W-All-Accessories","w-jewellery"], "base_url":"https://www.alexandermcqueen.com/api/v1/category/women?locale={locale}&categoryIds={clothing_category}&page={page}&hitsPerPage=30"},{"category_list":["M-All-Ready-to-Wear","M-Shoes","M-All-Accessories", "m-jewellery","M-Bags"],"base_url":"https://www.alexandermcqueen.com/api/v1/category/men?locale={locale}&categoryIds={clothing_category}&page={page}&hitsPerPage=30"}],
+    "Locales":["en-it","en-us"]
+  },
+  "363":
+  {
+    "Categories":["men","women","children"],
+    "Locales":["Sites-MonclerEU-Site/en_IT","Sites-MonclerUS-Site/en_US"]
+  },
+  "310":
+  {
+    "Categories":["cgid%3Dwomen","cgid%3Dmen","cgid%3Dm_fw_collection","cgid%3Dw_fw_precollection"],
+    "Locales":[{"country_code":"IT","locale":"en","limit":200,"site_id":"LOE_EUR"},{"country_code":"USA","locale":"en-US","limit":200,"site_id":"LOE_USA"}]
+  },
+"157":
+  {
+    "Categories":null,
+    "Locales":[{"site_id":"dolcegabbana_us","locale":"en","limit":200},{"site_id":"dolcegabbana","locale":"it","limit":200}]
+  },
+"500":
+  {
+    "Categories":["men","women","children"],
+    "Locales":["Sites-MonclerEU-Site/en_IT","Sites-MonclerUS-Site/en_US"]
+  }
+}
