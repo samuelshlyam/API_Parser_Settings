@@ -19,6 +19,11 @@
     "Categories":["men","women","children"],
     "Locales":["Sites-MonclerEU-Site/en_IT","Sites-MonclerUS-Site/en_US"]
   },
+  "314":
+  {
+    "Categories":['L1_MEN','L1_WOM','L2_MEN_ACCESSORIES','L2_WOM_LG','L2_WOM_ACCESSORIES','L2_SHOES_WOM','L2_WOM_SLG','L2_SHOES_MAN','L2_DIGITALFW24_MAN','L2_DIGITALFW24_WOM','L2_SS23_WOM','L2_SS23_MAN'],
+    "Locales": [{'country_code':'it', 'locale':'it'},{'country_code':'en', 'locale':'us'}]
+  },
   "310":
   {
     "Categories":["cgid%3Dwomen","cgid%3Dmen","cgid%3Dm_fw_collection","cgid%3Dw_fw_precollection"],
@@ -31,7 +36,7 @@
   },
 "500":
   {
-    "Categories":["men","women","children"],
-    "Locales":["Sites-MonclerEU-Site/en_IT","Sites-MonclerUS-Site/en_US"]
+    "Categories":["main-viewall"],
+    "Locales":[{"locale":"Sites-StoneEU-Site/it_IT","size":1000,"start":0},{"locale":"Sites-StoneNA-Site/en_US","size":1000,"start":0}]
   }
 }
