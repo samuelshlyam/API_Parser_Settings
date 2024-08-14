@@ -21,8 +21,8 @@
   },
   "314":
   {
-    "Categories":['L1_MEN','L1_WOM','L2_MEN_ACCESSORIES','L2_WOM_LG','L2_WOM_ACCESSORIES','L2_SHOES_WOM','L2_WOM_SLG','L2_SHOES_MAN','L2_DIGITALFW24_MAN','L2_DIGITALFW24_WOM','L2_SS23_WOM','L2_SS23_MAN'],
-    "Locales": [{'country_code':'it', 'locale':'it'},{'country_code':'en', 'locale':'us'}]
+    "Categories":["L1_MEN","L1_WOM","L2_MEN_ACCESSORIES","L2_WOM_LG","L2_WOM_ACCESSORIES","L2_SHOES_WOM","L2_WOM_SLG","L2_SHOES_MAN","L2_DIGITALFW24_MAN","L2_DIGITALFW24_WOM","L2_SS23_WOM","L2_SS23_MAN"],
+    "Locales": [{"country_code":"it", "locale":"it"},{"country_code":"en", "locale":"us"}]
   },
   "310":
   {
