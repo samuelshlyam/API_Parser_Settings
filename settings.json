@@ -35,16 +35,22 @@
     "Locales":[{"country_code":"IT","locale":"en","limit":200,"site_id":"LOE_EUR"},{"country_code":"USA","locale":"en-US","limit":200,"site_id":"LOE_USA"}],
     "Base_URL":"https://www.loewe.com/mobify/proxy/api/search/shopper-search/v1/organizations/f_ecom_bbpc_prd/product-search?siteId={site_id}&refine={category}&locale={locale}&offset={offset}&limit={limit}&c_countryCode={country_code}"
   },
-"157":
+  "157":
   {
     "Categories":null,
     "Locales":[{"site_id":"dolcegabbana_us","locale":"en","limit":200},{"site_id":"dolcegabbana","locale":"it","limit":200}],
     "Base_URL":"https://www.dolcegabbana.com/mobify/proxy/api/search/shopper-search/v1/organizations/f_ecom_bkdb_prd/product-search?locale={locale}&siteId={site_id}&refine=c_availableForCustomerGroupA%3DEveryone&limit={limit}&offset={offset}&refine={category}"
   },
-"500":
+  "500":
   {
     "Categories":["main-viewall"],
     "Locales":[{"locale":"Sites-StoneEU-Site/it_IT","size":1000,"start":0},{"locale":"Sites-StoneNA-Site/en_US","size":1000,"start":0}],
     "Base_URL":"https://www.stoneisland.com/on/demandware.store/Sites-StoneNA-Site/{locale}/SearchApi-Search?cgid={category}&sz={size}&start={start}"
+  },
+  "125":
+  {
+    "Categories":["llrtw", "shs", "llbgs","ccssslg","ccssrs","chlsnglssssll", "frgrncs","llchldrnswr","chlwntr24","chlfll24","gftfrhr","chlwntr24","sgntr","chlbrcltbg"],
+    "Locales":[{"locale":"CHLOE_US","size":5000},{"locale":"CHLOE_IT","size":5000}],
+    "Base_URL":"https://www.chloe.com/Search/RenderProductsAsync?department={category}&productsPerPage={size}&siteCode={locale}"
   }
 }
