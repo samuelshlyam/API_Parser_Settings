@@ -45,7 +45,7 @@
   {
     "Categories":["main-viewall"],
     "Locales":[{"locale":"Sites-StoneEU-Site/it_IT","size":1000,"start":0},{"locale":"Sites-StoneNA-Site/en_US","size":1000,"start":0}],
-    "Base_URL":"https://www.stoneisland.com/on/demandware.store/Sites-StoneNA-Site/{locale}/SearchApi-Search?cgid={category}&sz={size}&start={start}"
+    "Base_URL":"https://www.stoneisland.com/on/demandware.store/{locale}/SearchApi-Search?cgid={category}&sz={size}&start={start}"
   },
   "125":
   {
